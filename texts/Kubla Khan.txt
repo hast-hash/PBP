@@ -1,0 +1,56 @@
+  In Xanadu did {S:Kubla Khan}
+  {O:A stately pleasure-dome} {V:decree}:\n
+  Where {S:Alph, the sacred river,} {V:ran}
+  Through caverns measureless to man
+    Down to a sunless sea.\n                                             
+  So {S:twice five miles of fertile ground}
+  With walls and towers {V:were girdled round}:\n
+  And {S:there} {V:were} {O:gardens bright} with sinuous rills,
+  {2:Where {V2:blossomed} {S2:many an incense-bearing tree}};\n
+  And {S:here} {V:were} {O:forests ancient as the hills},                         
+  {2:{V2:Enfolding} {O2:sunny spots of greenery}}.\n
+
+  But oh! {S:that deep romantic chasm which slanted
+  Down the green hill athwart a cedarn cover}!\n
+  {S:A savage place!}\n as holy and enchanted
+  As e'er beneath {S:a waning moon} {V:was haunted                           
+  By} {O:woman wailing for her demon-lover}!\n
+  And from this chasm, with ceaseless turmoil seething,
+  {2:As if {S2:this earth} in fast thick pants {V2:were breathing},}
+  {S:A mighty fountain} {V:momently was forced}:\n
+  Amid whose swift half-intermitted burst                             
+  {S:Huge fragments} {V:vaulted} like rebounding hail,
+  Or chaffy grain beneath the thresher's flail:\n
+  And 'mid these dancing rocks at once and ever
+  {S:It} {V:flung up momently} {O:the sacred river}.\n
+  Five miles meandering with a mazy motion                            
+  Through wood and dale {S:the sacred river} {V:ran},\n
+  Then {S:{i:the sacred river}}{V:reached} {O:the caverns measureless to man},\n
+  And {S:{i:the sacred river}}{V:sank} in tumult {O:to a lifeless ocean}:\n
+  And 'mid this tumult {S:Kubla} {V:heard} from far
+  {O:Ancestral voices prophesying war}!\n                                   
+    {S:The shadow of the dome of pleasure}
+    {V:Floated} midway on the waves;\n
+    Where {V:was heard} {S:the mingled measure
+    From the fountain and the caves}.\n
+  {S:It} {V:was} {O:a miracle of rare device,                                    
+  A sunny pleasure-dome with caves of ice}!\n
+
+    {O:A damsel with a dulcimer}
+    In a vision once {S:I} {V:saw}:\n
+    {S:It} {V:was} {O:an Abyssinian maid},\n
+    And {O:on her dulcimer} {S:she} {V:played},                                   
+    {2:{V2:Singing of} {O2:Mount Abora}}.\n
+    {V:Could} {S:I} {V:revive} within me
+    {O:Her symphony and song},\n
+    To such a deep delight {S:'t}{V:would win} {O:me},\n
+  That with music loud and long,                                      
+  {S:I} {V:would build} {O:that dome in air,
+  That sunny dome! those caves of ice}!\n
+  And {S:all who heard} {V:should see} {O:them} there,\n
+  And {S:all} {V:should cry},\n {V:Beware}! {V:Beware}!
+  {O:His flashing eyes, his floating hair}!\n
+  {V:Weave} {O:a circle} round him thrice,\n
+  And {V:close} {O:your eyes} with holy dread,\n
+  For {S:he} on {O:honey-dew} {V:hath fed},\n
+  And {S:{i:he}}{V:drunk} {O:the milk of Paradise}.\n

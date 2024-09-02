@@ -1,0 +1,32 @@
+﻿line,text,category
+1,In Xanadu did Kubla Khan A stately pleasure-dome decree: ,a
+3,"Where Alph, the sacred river, ran Through caverns measureless to man Down to a sunless sea. ",b
+6,So twice five miles of fertile ground With walls and towers were girdled round: ,"c,i"
+8,"And there were gardens bright with sinuous rills, Where blossomed many an incense-bearing tree; ",d
+10,"And here were forests ancient as the hills, Enfolding sunny spots of greenery. ",d
+12,But oh! that deep romantic chasm which slanted Down the green hill athwart a cedarn cover! ,
+14,A savage place! ,
+14,as holy and enchanted As e'er beneath a waning moon was haunted By woman wailing for her demon-lover! ,
+17,"And from this chasm, with ceaseless turmoil seething, As if this earth in fast thick pants were breathing, A mighty fountain momently was forced: ",e
+20,"Amid whose swift half-intermitted burst Huge fragments vaulted like rebounding hail, Or chaffy grain beneath the thresher's flail: ",e
+23,And 'mid these dancing rocks at once and ever It flung up momently the sacred river. ,e
+25,"Five miles meandering with a mazy motion Through wood and dale the sacred river ran, ",f
+27,"Then reached the caverns measureless to man, ",b
+28,And sank in tumult to a lifeless ocean: ,b
+29,And 'mid this tumult Kubla heard from far Ancestral voices prophesying war! ,
+31,The shadow of the dome of pleasure Floated midway on the waves; ,
+33,Where was heard the mingled measure From the fountain and the caves. ,
+35,"It was a miracle of rare device, A sunny pleasure-dome with caves of ice! ",j
+37,A damsel with a dulcimer In a vision once I saw: ,
+39,"It was an Abyssinian maid, ",g
+40,"And on her dulcimer she played, Singing of Mount Abora. ","g,d,h"
+42,"Could I revive within me Her symphony and song, ",
+44,"To such a deep delight 'twould win me, ",
+45,"That with music loud and long, I would build that dome in air, That sunny dome! those caves of ice! ",j
+48,"And all who heard should see them there, ",
+49,"And all should cry, ",
+49,"Beware! Beware! His flashing eyes, his floating hair! ",
+51,"Weave a circle round him thrice, ",
+52,"And close your eyes with holy dread, ",
+53,"For he on honey-dew hath fed, ",h
+54,And drunk the milk of Paradise. ,h
